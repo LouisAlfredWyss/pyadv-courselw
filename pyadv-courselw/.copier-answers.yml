@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: louis.wyss@insel.ch
+author_name: Louis Wyss
+github_username: LouisAlfredWyss
+mode: tooling
+module_name: pyadv_courselw
+project_name: pyadv-courselw
+project_short_description: Package description.
+
