@@ -7,3 +7,6 @@ def add_one(x):
 
 def add_two(x):
     return np.array(x) + 2
+
+def add_three(x):
+    return np.array(x) + 3
